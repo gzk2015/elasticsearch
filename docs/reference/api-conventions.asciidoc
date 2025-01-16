@@ -4,6 +4,7 @@
 The {es} REST APIs are exposed over HTTP.
 Except where noted, the following conventions apply across all APIs.
 
+ES的REST APIs通过http协调暴露出来。
 [discrete]
 === Content-type requirements
 
